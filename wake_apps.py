@@ -8,8 +8,8 @@ from playwright.sync_api import sync_playwright
 
 # Agregá acá las URLs de tus apps de Streamlit
 APP_URLS = [
-   "https://fermvhdmvspkxuvm3mroqi.streamlit.app/",
-   "https://fermvhdmvspkx.streamlit.app/",  # completar con la URL real,  # completar con la URL real
+    "https://rkuahz8wvydknjkyfdcxsy.streamlit.app/",
+    "https://fermvhdmvspkxuvm3mroqi.streamlit.app/",
 ]
 
 WAKE_BUTTON_TEXT = "Yes, get this app back up!"
