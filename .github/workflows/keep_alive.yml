@@ -1,9 +1,9 @@
-name: Despertar Apps de Streamlit
+name: "⏰ MANTENER VIVO: Ambas Apps de Streamlit"
 
 on:
   schedule:
-    - cron: '0 */12 * * *'   # cada 12 horas
-  workflow_dispatch:          # permite ejecutarlo manualmente para probar
+    - cron: '0 */12 * * *' # Cada 12 horas automáticamente
+  workflow_dispatch:       # Botón para ejecutar manualmente
 
 jobs:
   despertar-apps:
